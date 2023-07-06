@@ -11,6 +11,8 @@
 
 Research Scientist at [IA](http://www.iastro.pt/index.html) in Porto (Portugal).
 
+Connect me in <a href="https://www.linkedin.com/in/vardan-adibekyan/"><img src=https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg height="20px"/><a/>
+
 <!--
 **vadibekyan/vadibekyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
