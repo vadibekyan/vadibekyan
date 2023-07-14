@@ -1,4 +1,7 @@
-### Բարև՛, &nbsp;  I'm Vardan
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Բարև՛&fontAlign=50&fontSize=50&desc=%20&descAlign=50&descAlignY=50&theme=radical)
+
+
+### I'm Vardan
 
 <!--
 <a href="https://github.com/vadibekyan">
